@@ -126,7 +126,7 @@ export default function AboutSection() {
               <ul className="space-y-3 text-gray-300">
                 <li className="flex items-center gap-3">
                   <div className="w-2 h-2 rounded-full bg-blue-500"></div>
-                  <span>🎓 B.S. in Computer Science</span>
+                  <span>🎓 B.S. in Software Engineering</span>
                 </li>
                 <li className="flex items-center gap-3">
                   <div className="w-2 h-2 rounded-full bg-purple-500"></div>
